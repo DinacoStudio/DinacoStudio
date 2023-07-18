@@ -5,7 +5,7 @@
 ![CSHARP](https://img.shields.io/static/v1?label=CODE&message=CSHARP&logo=csharp&style=plastic&logoColor=white) ![JAVASCRIPT](https://img.shields.io/static/v1?label=CODE&message=JAVASCRIPT&logo=javascript&style=plastic)
 
 ```txt
-C#          ██████████████░░░░░░░░░░░   70 %
-Javascript  ███████████████████░░░░░░   80 %
-CSS         █████████████████████████   100 %
+C#          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   70 %
+Javascript  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   80 %
+CSS         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100 %
 ```
