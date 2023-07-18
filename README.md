@@ -4,4 +4,4 @@
 ### 🌱 Im currently learning:
 ![CSHARP](https://img.shields.io/static/v1?label=CODE&message=CSHARP&logo=csharp&style=plastic&logoColor=white) ![JAVASCRIPT](https://img.shields.io/static/v1?label=CODE&message=JAVASCRIPT&logo=javascript&style=plastic)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinacoStudio&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinacoStudio&theme=dark&show_icons=true&locale=ru)
