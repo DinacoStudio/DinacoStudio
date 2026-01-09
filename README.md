@@ -20,6 +20,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+## Activity:
+![GitHub Stats](https://stat-github.dinacostudio.ru/api?username=DinacoStudio&show_icons=true&theme=dark&count_private=false)
+
 ## Contacts:
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?logo=youtube)](https://www.youtube.com/channel/UCuD1YnV7VZiXTGxY_C_qjbg)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/969921410338291742/)
