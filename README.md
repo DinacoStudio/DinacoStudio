@@ -19,6 +19,6 @@ Windows Internals &nbsp;·&nbsp; Автоматизация &nbsp;·&nbsp; Game 
   <img src="https://img.shields.io/badge/Git-242424?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
-<a href="https://discord.com/users/969921410338291742/"><img src="https://img.shields.io/badge/Discord-242424?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;<a href="https://www.youtube.com/channel/UCuD1YnV7VZiXTGxY_C_qjbg"><img src="https://img.shields.io/badge/YouTube-242424?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+<a href="https://discord.com/users/969921410338291742/"><img src="https://img.shields.io/badge/Discord-242424?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;<a href="https://t.me/dinacostudio"><img src="https://img.shields.io/badge/Telegram-242424?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>&nbsp;<a href="https://www.youtube.com/channel/UCuD1YnV7VZiXTGxY_C_qjbg"><img src="https://img.shields.io/badge/YouTube-242424?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
 
 </div>
